@@ -8,6 +8,11 @@ Generated automatically by commitizen on `cz bump`.
 
 ---
 
-## Unreleased
+## v0.1.0 (2026-05-23)
 
-- Initial release
+### Feat
+
+- add changelog pipeline and CI workflow
+- add PR template
+- add commitizen config and conventional commits guide
+- add pre-commit config with full Terraform stack and secrets scanning
